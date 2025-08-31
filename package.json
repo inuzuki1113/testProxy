@@ -1,5 +1,5 @@
 {
-  "name": "inu-proxy",
+  "name": "inu-proxy-simple",
   "version": "1.0.0",
   "main": "server.js",
   "scripts": {
@@ -10,8 +10,6 @@
     "axios": "^1.4.0",
     "compression": "^1.7.4",
     "node-cache": "^5.1.2",
-    "cors": "^2.8.5",
-    "dotenv": "^16.0.3",
-    "helmet": "^7.0.0"
+    "dotenv": "^16.0.3"
   }
 }
